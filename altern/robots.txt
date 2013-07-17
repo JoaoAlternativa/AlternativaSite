@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /config/
+Disallow: /maxiadmin/
+Disallow: /backup/
+Disallow: /upgrade/
+Disallow: /tmp/
+Disallow: /currencies/
+Disallow: /include/
+Disallow: /storage/
+Disallow: /templates/
+Allow: /
+
+
